@@ -1,4 +1,4 @@
 # manu1
-this is my first reposetry.
+This is my first git reposetry.
 <br>
 author : manoj
